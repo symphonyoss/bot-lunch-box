@@ -1,3 +1,9 @@
+[![Symphony Software Foundation - Archived](https://cdn.rawgit.com/symphonyoss/contrib-toolbox/master/images/ssf-badge-archived.svg)](https://symphonyoss.atlassian.net/wiki/display/FM/Project+lifecycle)
+
+# Archived Project
+This project was archived 2016-11-07.  For more information on how this may affect consumers and contributors of this project, please see the Foundation's [Project Lifecycle documentation](https://symphonyoss.atlassian.net/wiki/display/FM/Project+lifecycle).
+
+
 =================================README===========================
 
 LunchBoxBot is a useful Symphony Bot that consumes lunch menu posted everyday and helps you make lunch experience better
