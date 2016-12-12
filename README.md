@@ -1,4 +1,4 @@
-[![Symphony Software Foundation - Archived](https://cdn.rawgit.com/symphonyoss/contrib-toolbox/master/images/ssf-badge-archived.svg)](https://symphonyoss.atlassian.net/wiki/display/FM/Project+lifecycle)
+[![Symphony Software Foundation - Archived](https://cdn.rawgit.com/symphonyoss/contrib-toolbox/master/images/ssf-badge-archived.svg)](https://symphonyoss.atlassian.net/wiki/display/FM/Archived)
 
 # Archived Project
 This project was archived 2016-11-07.  For more information on how this may affect consumers and contributors of this project, please see the Foundation's [Project Lifecycle documentation](https://symphonyoss.atlassian.net/wiki/display/FM/Project+lifecycle).
